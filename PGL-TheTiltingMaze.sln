@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RollABall", "RollABall", "{CEDAB73C-2C57-AD71-E466-8100DF41D41A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "RollABall\Assembly-CSharp-Editor.csproj", "{2305466B-89A8-4A2A-DE24-02443AC3EE9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "RollABall\Assembly-CSharp.csproj", "{06772FCB-91C8-84EB-A46D-644BAFD3A1EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2305466B-89A8-4A2A-DE24-02443AC3EE9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2305466B-89A8-4A2A-DE24-02443AC3EE9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2305466B-89A8-4A2A-DE24-02443AC3EE9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2305466B-89A8-4A2A-DE24-02443AC3EE9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06772FCB-91C8-84EB-A46D-644BAFD3A1EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06772FCB-91C8-84EB-A46D-644BAFD3A1EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06772FCB-91C8-84EB-A46D-644BAFD3A1EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06772FCB-91C8-84EB-A46D-644BAFD3A1EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2305466B-89A8-4A2A-DE24-02443AC3EE9B} = {CEDAB73C-2C57-AD71-E466-8100DF41D41A}
+		{06772FCB-91C8-84EB-A46D-644BAFD3A1EF} = {CEDAB73C-2C57-AD71-E466-8100DF41D41A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E8FDA4F-5F73-431E-BD50-0A46233FE2F6}
+	EndGlobalSection
+EndGlobal
